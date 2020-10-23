@@ -1,0 +1,87 @@
+.rm{
+    text-align: center;
+    padding:19px;
+    text-shadow:10px 10px 10px red; 
+    font-family:Stencil Std;
+    text-align:center;
+    padding:19px;
+   
+
+}
+
+
+    
+
+.tagline{
+    font-family:Bahnschrift SemiBold;
+    text-align: center;
+}
+
+.rt{
+    margin-top:10px;
+}
+
+h1{
+    text-align:center;
+    font-family:Kalam;
+}
+
+table th{
+    padding:10px;
+}
+
+table td{
+    padding:10px;
+}
+
+table{
+    width:100%;
+    margin-top: 7px;
+}
+
+.post{
+    border-right:1px solid 	rgb(204, 204, 204);
+}
+
+.tost{
+    background-color:rgb(128, 128, 128);
+}
+
+.container{
+    
+    color:white;
+    background-color:black;
+}
+
+
+.size{
+    color:rgb(0, 204, 153);
+    font-size:30px;
+}
+
+.oo{
+    margin-left: 10px;
+}
+
+
+.sm{
+    color:rgb(255, 0, 102);
+}
+
+.q{
+    text-align:center;
+}
+
+p{
+    color:black;
+}
+
+.s{
+    text-align:center;
+    padding:10px;
+}
+
+
+
+
+
